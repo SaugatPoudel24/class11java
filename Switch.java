@@ -1,6 +1,6 @@
 public class Switch {
     public static void main(String[] args) {
-        char ch = 'f';
+        char ch = 'e';
         switch (ch) {
             case 'a':
                 System.out.println("Vowel");
